@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/shresthahardia" target="blank"><img src="https://img.shields.io/twitter/follow/shresthahardia?logo=twitter&style=for-the-badge" alt="shresthahardia" /></a> </p>
 
-- 🔭 I’m currently working on [Research Paper about Deep Learning in Dermatological Disease.](https://github.com/hardiashrestha/Team-19-aizenberGAARRS-)
+- 🔭 I’m currently working on:
+  [Research Paper about Deep Learning in Dermatological Disease.](https://github.com/hardiashrestha/Team-19-aizenberGAARRS-)
 
 - 🌱 I’m currently learning **Python(Advanced) and Django**
 
