@@ -1,7 +1,7 @@
 [![MasterHead]
 <h1 align="center">Hi 👋, I'm Shrestha Hardia</h1>
-<h3 align="center">I'm Shrestha, an aspiring web developer and AI/ML engineer with a passion for creating sleek, user-friendly web apps and exploring the world of deep learning. 🌐💻</h3>
-<img align="right" alt="Coding" width="400" src="<div class="tenor-gif-embed" data-postid="24999202" data-share-method="host" data-aspect-ratio="1.37931" data-width="100%"><a href="https://tenor.com/view/develop-web-design-software-web-designer-gif-24999202">Develop Web Sticker</a>from <a href="https://tenor.com/search/develop-stickers">Develop Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+<h3 align="center">I'm an aspiring web developer and AI/ML engineer with a passion for creating sleek, user-friendly web apps and exploring the world of deep learning.🌐💻</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiashrestha&label=Profile%20views&color=0e75b6&style=flat" alt="hardiashrestha" /> </p>
 
