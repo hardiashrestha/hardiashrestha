@@ -1,7 +1,7 @@
 [![MasterHead]
 <h1 align="center">Hi 👋, I'm Shrestha Hardia</h1>
 <h3 align="center">I'm an aspiring web developer and AI/ML engineer with a passion for creating sleek, user-friendly web apps and exploring the world of deep learning.🌐💻</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiashrestha&label=Profile%20views&color=0e75b6&style=flat" alt="hardiashrestha" /> </p>
 
