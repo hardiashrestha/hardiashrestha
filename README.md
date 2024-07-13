@@ -1,4 +1,8 @@
-[![MasterHead]
+<div align="center">
+  <a href="https://powertsone666.io">
+    <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="MasterHead" />
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Shrestha Hardia</h1>
 <h3 align="center">I'm an aspiring web developer and AI/ML engineer with a passion for creating sleek, user-friendly web apps and exploring the world of deep learning.🌐💻</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
